@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sandip shrestha
+## I'm Sandip Shrestha
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on full stack web app 
