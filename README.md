@@ -1,8 +1,10 @@
-## I'm Sandip Shrestha
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on full stack web app 
-
+# I'm Sandip Shrestha
+MERN Stack Developer
+- Expertixe in JavaScript and MERN stack
+- Version controlling with Git
+- Experience with SQL and NoSQL databases
+- Experienc in creating designs using tailwindCss, bootstrap
+  
 <!---
 kanxa12345/kanxa12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
