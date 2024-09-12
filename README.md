@@ -73,6 +73,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<img src="https://raw.githubusercontent.com/sandipshrest/sandipshrest/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
 ###
