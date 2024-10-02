@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandipshrest&label=Profile%20views&color=0e75b6&style=flat" alt="sandipshrest" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipshrest&" alt="sandipshrest" /></p>
+![Sandip's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandipshrest&theme=radical)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sandipshrest&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -56,20 +56,13 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/sandip-shres/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/SandipShrest" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/sandip_shrest" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/sandip.shrestha.3979489" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-shres/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sandip_shrest)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/SandipShrest)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/sandip.shrestha.3979489)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:c.restsandip123@gmail.com@gmail.com)
 
 ###
 
