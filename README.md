@@ -1,9 +1,10 @@
 # I'm Sandip Shrestha
 MERN Stack Developer
-- Expertise in JavaScript and MERN stack
+- Expertise in JavaScript?TypeScript and MERN stack
 - Version controlling with Git
 - Experience with SQL and NoSQL databases
-- Experienc in creating designs using tailwindCss, bootstrap
+- Experience in creating designs using tailwindCSS, bootstrap
+- Experience in creating designs using UI frameworks (Ant Design, Aceternity UI, NextUI)
   
 <!---
 kanxa12345/kanxa12345 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
