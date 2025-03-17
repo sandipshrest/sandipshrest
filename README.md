@@ -4,7 +4,7 @@ MERN Stack Developer
 - Version controlling with Git
 - Experience with SQL and NoSQL databases
 - Web hosting with AWS
-- Experience in creating designs using tailwindCSS, bootstrap
+- Experience in creating designs using tailwindCSS, bootstrap 
 - Experience in creating designs using UI frameworks (Ant Design, Aceternity UI, NextUI, ShadcnUI)
   
 <!---
